@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HinodeMyojo
 - 👀 I’m interested in programming, astromony, travel
-- 🌱 I’m currently learning Python, Django
+- 🌱 I’m currently learning Python, Django, SQLite
 
 
 <!---
