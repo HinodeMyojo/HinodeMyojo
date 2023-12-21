@@ -15,7 +15,7 @@
 -  [![Django](https://img.shields.io/badge/Django-113527?logo=Django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
 -  [![Sqlite](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&logoColor=003856&style=for-the-badge)](https://www.postgresql.org/)
 
-## **[🚀 Technologies & Interests](https://github.com/HinodeMyojo)**
+<!--## **[🚀 Technologies & Interests](https://github.com/HinodeMyojo)**-->
 
 <!-- Тут будут проекты
 Папка должна скрываться и раскрываться -->
