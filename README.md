@@ -13,7 +13,7 @@
 
 -  [![Python](https://img.shields.io/badge/Python-3673a5?logo=Python&logoColor=ffd342&style=for-the-badge)](https://www.python.org/)
 -  [![Django](https://img.shields.io/badge/Django-113527?logo=Django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
--  [![Sqlite](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&logoColor=003856&style=for-the-badge)](https://www.postgresql.org/))
+-  [![Sqlite](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&logoColor=003856&style=for-the-badge)](https://www.postgresql.org/)
 
 ## **[🚀 Technologies & Interests](https://github.com/HinodeMyojo)**
 
