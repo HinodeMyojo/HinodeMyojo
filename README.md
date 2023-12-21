@@ -6,14 +6,16 @@
 - 👨‍💻 Actively involved in coding communities and tech meetups to stay updated with the latest industry trends.
 - 🌱 Committed to personal growth and mastering new technologies through online courses and self-study.
 
-## **[🚀 Technologies & Interests](https://github.com/HinodeMyojo)**
+## **[⛩️ Actively studying](https://github.com/HinodeMyojo)**
 <!-- -  🐍Python
 -  🕺Django
--  💿Sqlite -->
+-  🐘PostgreSQL -->
 
 -  [![Python](https://img.shields.io/badge/Python-3673a5?logo=Python&logoColor=ffd342&style=for-the-badge)](https://www.python.org/)
 -  [![Django](https://img.shields.io/badge/Django-113527?logo=Django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
--  [![Sqlite](https://img.shields.io/badge/Sqlite-white?logo=Sqlite&logoColor=003856&style=for-the-badge)](https://www.sqlite.org/index.html)
+-  [![Sqlite](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&logoColor=003856&style=for-the-badge)](https://www.postgresql.org/))
+
+## **[🚀 Technologies & Interests](https://github.com/HinodeMyojo)**
 
 <!-- Тут будут проекты
 Папка должна скрываться и раскрываться -->
