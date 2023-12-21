@@ -1,7 +1,7 @@
 ## **[🌌 Hi, I’m @HinodeMyojo 🛰️](https://github.com/HinodeMyojo)**
 
 - 🪐 I’m interested in programming, astromony, travel.
-- 🏆 I’m currently learning Python, Django, SQLite.
+- 🏆 I’m currently learning Python, Django, PostgreSQL.
 - 🚀 Passionate about contributing to open-source projects and engaging in collaborative development.
 - 👨‍💻 Actively involved in coding communities and tech meetups to stay updated with the latest industry trends.
 - 🌱 Committed to personal growth and mastering new technologies through online courses and self-study.
