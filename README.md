@@ -1,15 +1,16 @@
 ## **[🌌 Hi, I’m @HinodeMyojo 🛰️](https://github.com/HinodeMyojo)**
 
 - 🪐 I’m interested in programming, astromony, travel.
-- 🏆 I’m currently learning Python, Django, PostgreSQL, Redis, Docker, Gunicorn, Nginx.
-- 🚀 Passionate about contributing to open-source projects and engaging in collaborative development.
-- 👨‍💻 Actively involved in coding communities and tech meetups to stay updated with the latest industry trends.
+- 🏆 I’m currently learning Python, Django, PostgreSQL
+- 🚀 Next up: Redis, Docker, Gunicorn, Nginx.
 - 🌱 Committed to personal growth and mastering new technologies through online courses and self-study.
 
 ## **[⛩️ Actively studying](https://github.com/HinodeMyojo)**
 <!-- -  🐍Python
 -  🕺Django
--  🐘PostgreSQL -->
+-  🐘PostgreSQL
+- 🚀 Passionate about contributing to open-source projects and engaging in collaborative development.
+- 👨‍💻 Actively involved in coding communities and tech meetups to stay updated with the latest industry trends.-->
 
 -  [![Python](https://img.shields.io/badge/Python-3673a5?logo=Python&logoColor=ffd342&style=for-the-badge)](https://www.python.org/)
 -  [![Django](https://img.shields.io/badge/Django-113527?logo=Django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
