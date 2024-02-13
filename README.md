@@ -1,6 +1,6 @@
 ## **[🌌 Hi, I’m @HinodeMyojo 🛰️](https://github.com/HinodeMyojo)**
 
-- 🪐 I’m interested in programming, astromony, travel.
+- 🪐 I’m interested in programming, cad, astromony, travel.
 - 🏆 I’m currently learning Python, Django, PostgreSQL
 - 🚀 Next up: Redis, Docker, Gunicorn, Nginx.
 - 🌱 Committed to personal growth and mastering new technologies through online courses and self-study.
