@@ -14,7 +14,9 @@
 
 -  [![Python](https://img.shields.io/badge/Python-3673a5?logo=Python&logoColor=ffd342&style=for-the-badge)](https://www.python.org/)
 -  [![Django](https://img.shields.io/badge/Django-113527?logo=Django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
--  [![Sqlite](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&logoColor=003856&style=for-the-badge)](https://www.postgresql.org/)
+-  [![PostgreSQl](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&logoColor=003856&style=for-the-badge)](https://www.postgresql.org/)
+-  [![Redis](https://img.shields.io/badge/Redis-white?logo=Redis&logoColor=fc0000&style=for-the-badge)(https://redis.io/)]
+-  [![Docker](https://img.shields.io/badge/Docker-white?logo=Docker&logoColor=16afe4&style=for-the-badge)(https://www.docker.com/)]
 
 <!--## **[🚀 Technologies & Interests](https://github.com/HinodeMyojo)**-->
 
