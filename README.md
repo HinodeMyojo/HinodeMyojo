@@ -1,8 +1,8 @@
 ## **[🌌 Hi, I’m @HinodeMyojo 🛰️](https://github.com/HinodeMyojo)**
 
 - 🪐 I’m interested in programming, cad, astromony, travel.
-- 🏆 I’m currently learning Python, C#, Entity Framework, Django, PostgreSQL
-- 🚀 Next up: Redis, Docker, Gunicorn, Nginx.
+- 🏆 Stack C#, ASP.NET, Docker, Nginx, Python, Django, PostgreSQL
+- 🚀 Next up: Redis, Gunicorn, C8S
 - 🌱 Committed to personal growth and mastering new technologies through online courses and self-study.
 
 ## **[⛩️ Actively studying](https://github.com/HinodeMyojo)**
