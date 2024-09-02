@@ -1,39 +1,28 @@
 ## **[🌌 Hi, I’m @HinodeMyojo 🛰️](https://github.com/HinodeMyojo)**
 
-- 🪐 I’m interested in programming, cad, astromony, travel.
-- 🏆 Stack C#, ASP.NET, Docker, Nginx, Python, Django, PostgreSQL
-- 🚀 Next up: Redis, Gunicorn, C8S
-- 🌱 Committed to personal growth and mastering new technologies through online courses and self-study.
+- 🪐 **Explorer of:** Programming, Astronomy, Travel
+- 🏆 **Stack:** C#, ASP.NET, EF, Docker, Nginx, PostgreSQL, Redis, Gunicorn, Kubernetes, Kafka, Python, Django
 
-## **[⛩️ Actively studying](https://github.com/HinodeMyojo)**
-<!-- -  🐍Python
--  🕺Django
--  🐘PostgreSQL
-- 🚀 Passionate about contributing to open-source projects and engaging in collaborative development.
-- 👨‍💻 Actively involved in coding communities and tech meetups to stay updated with the latest industry trends.-->
+## **💼 Experience & Skills**
 
--  [![Python](https://img.shields.io/badge/Python-3673a5?logo=Python&logoColor=ffd342&style=for-the-badge)](https://www.python.org/)
--  [![C#](https://img.shields.io/badge/Csharp-964d91?logo=Csharp&logoColor=FFFFFF&style=for-the-badge)](https://learn.microsoft.com/ru-ru/dotnet/csharp/)
--  [![Django](https://img.shields.io/badge/Django-113527?logo=Django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
--  [![PostgreSQl](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&logoColor=003856&style=for-the-badge)](https://www.postgresql.org/)
--  [![Redis](https://img.shields.io/badge/Redis-white?logo=Redis&logoColor=fc0000&style=for-the-badge)](https://redis.io/)
--  [![Docker](https://img.shields.io/badge/Docker-white?logo=Docker&logoColor=16afe4&style=for-the-badge)](https://www.docker.com/)
+- [![1+ Years Experience](https://img.shields.io/badge/Experience-1%2B%20Years-brightgreen?style=for-the-badge)](https://github.com/HinodeMyojo)
+- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HinodeMyojo&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/HinodeMyojo)
 
-<!--## **[🚀 Technologies & Interests](https://github.com/HinodeMyojo)**-->
+## **[⛩️ Tech Mastery in Progress](https://github.com/HinodeMyojo)**
 
-<!-- Тут будут проекты
-Папка должна скрываться и раскрываться -->
-<!-- ## 📁 Projects ## -->
+- [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/ru-ru/dotnet/csharp/)
+- [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)](https://dotnet.microsoft.com/apps/aspnet)
+- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
+- [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)](https://redis.io/)
+- [![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white&style=for-the-badge)](https://gunicorn.org/)
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+- [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/)
+- [![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)](https://kafka.apache.org/)
+- [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)](https://nginx.org/)
+- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+- [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
 
-<!-- Тут же будут мои ачивки :)
-## 🏆 Achievements ## -->
+## **[🔭 Connect with Me](https://github.com/HinodeMyojo)**
 
-## **🔭 Socials:** ##
-
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/egor-semenov-679467273/)
--  [![Telegram](https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/HinodeMyojo)
-
-<!-- ## 🪐 Tech Stack: ##
-[![Python](https://img.shields.io/badge/Python-3673a5?logo=Python&logoColor=ffd342&style=for-the-badge)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-113527?logo=Django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
-[![Sqlite](https://img.shields.io/badge/Sqlite-white?logo=Sqlite&logoColor=003856&style=for-the-badge)](https://www.sqlite.org/index.html) -->
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/egor-semenov-679467273/)
+- [![Telegram](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/HinodeMyojo)
