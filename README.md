@@ -5,7 +5,6 @@
 
 ## **💼 Experience & Skills**
 
-- [![1+ Years Experience](https://img.shields.io/badge/Experience-1%2B%20Years-brightgreen?style=for-the-badge)](https://github.com/HinodeMyojo)
 - [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HinodeMyojo&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/HinodeMyojo)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/HinodeMyojo/)
 
