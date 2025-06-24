@@ -1,7 +1,7 @@
 ## **[🌌 Hi, I’m @HinodeMyojo 🛰️](https://github.com/HinodeMyojo)**
 
 - 🪐 **Explorer of:** Programming, Astronomy, Travel
-- 🏆 **Stack:** C#, ASP.NET, EF, Docker, Nginx, PostgreSQL, Redis, Kubernetes, RabbitMQ, Python, Django. And Very grudgingly - Vue.
+- 🏆 **Stack:** C#, Golang, ASP.NET, EF, Docker, Nginx, PostgreSQL, Redis, Kubernetes, RabbitMQ, Python, Django, Vue.
 
 ## **💼 Experience & Skills**
 
